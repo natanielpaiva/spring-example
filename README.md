@@ -1,7 +1,7 @@
 
 # Exemplo Simples de Arquitetura para projetos Spring Boot
 
-Criei esse exemplo simples para mostrar como fica orgaizado os meus arquivos em meus projetos Spring.
+Criei esse exemplo simples para mostrar como fica organizado os meus arquivos em meus projetos Spring.
 
 Para rodar o projeto é necessário ter instalado:
 
